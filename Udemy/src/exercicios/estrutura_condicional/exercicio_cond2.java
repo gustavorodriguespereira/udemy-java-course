@@ -1,4 +1,4 @@
-package exercicios;
+package exercicios.estrutura_condicional;
 
 import java.util.Scanner;
 
