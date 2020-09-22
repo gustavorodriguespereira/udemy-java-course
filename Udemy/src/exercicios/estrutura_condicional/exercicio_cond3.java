@@ -23,6 +23,6 @@ public class exercicio_cond3 {
 
         System.out.println("O " + num1 + " e o " + num2 + " não são multiplos");
     }
-
+    sc.close();
   }
 }
